@@ -101,7 +101,7 @@ const uint16_t PROGMEM keymaps[][MATRIX_ROWS][MATRIX_COLS] = {
                             /* RIGHT */
                             _______    , KC_F6      , KC_F7     , KC_F8      , KC_F9       , KC_F10    , KC_F11    ,
                             KC_DELETE  , KC_MS_L    , KC_MS_D   , KC_MS_U    , KC_MS_R     , XXXXXXX   , KC_F12    ,
-                                         KC_LEFT    , KC_DOWN   , KC_UP      , KC_RIGHT    , XXXXXXX   , XXXXXXX   ,
+                                         KC_LEFT    , KC_DOWN   , KC_UP      , KC_RIGHT    , XXXXXXX   , SH_TT     ,
                             _______    , KC_NUMLOCK , KC_SLCK   , KC_PSCREEN , KC_CAPSLOCK ,KC_SYSREQ  , _______   ,
                                          _______    , XXXXXXX   , KC_INS     , XXXXXXX     , _______   ,
 
